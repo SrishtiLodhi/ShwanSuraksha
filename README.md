@@ -38,4 +38,4 @@ This project is open-source and released under the MIT License. Feel free to use
 
 This project uses OpenZeppelin's Solidity library for contract development and follows best practices for smart contract security. Special thanks to the Solidity and React communities for their contributions to the blockchain ecosystem.
 
-For any issues or inquiries, please contact the project team at [email address].
+For any issues or inquiries, please contact!
